@@ -68,7 +68,7 @@
 ### Samples
 * https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-websocket-jetty
 
-
+---
 ### 안드로이드 <-> 소켓서버와 통신 오류 문제
 * wss로 구축하려니 복잡해서 ws 통신하기 위해 안드로이드 매니페스트 파일에 셋팅 추가
    android:usesCleartextTraffic="true"
