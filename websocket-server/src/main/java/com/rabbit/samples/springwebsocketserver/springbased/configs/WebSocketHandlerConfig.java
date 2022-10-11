@@ -35,7 +35,7 @@ public class WebSocketHandlerConfig implements WebSocketConfigurer {
 		registry
 				.addHandler(echoTextWebSocketHandler(), "/echo")
 				.setAllowedOrigins("*")
-				.withSockJS()
+				// .withSockJS()
 				// .setSupressCors(true)
 		;
 		registry
